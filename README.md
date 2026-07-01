@@ -73,4 +73,12 @@ Dataset structure mirrors the [Kaggle Students Performance in Exams](https://www
 ---
 ---
 
-*Syntecxhub Data Analysis Internship*
+## 👤 Author
+
+Sattwik Sahu
+
+Submitted as part of the **Syntecxhub Internship Program** — Data Analysis Track.
+
+**Connect:** [Syntecxhub](https://www.syntecxhub.com) | `@Syntecxhub`
+
+---
