@@ -1,6 +1,7 @@
 # Syntecxhub_Student_Performance_Analysis
 
-**Data Analysis Internship @ Syntecxhub**
+*Syntecxhub Data Analysis Internship — Task 1*
+
 
 An interactive, single-file dashboard analyzing academic performance across 1,000 students using three subjects: Math, Reading, and Writing.
 
